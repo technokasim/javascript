@@ -1,0 +1,6 @@
+
+add this to wait untlill load
+
+<script>
+  document.onload = function(){ window.location = 'index.html'; };
+</script>
